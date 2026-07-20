@@ -1,2 +1,2 @@
 # website
-FrenlyCoin Website
+Frenly Miner and Frenly Coin Website
